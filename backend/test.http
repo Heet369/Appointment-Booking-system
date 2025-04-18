@@ -1,0 +1,13 @@
+POST http://localhost:4000/api/admin/add-doctor
+Content-Type: application/json
+
+{
+  "name": "Dr. Richard James",
+  "email": "richard@gmail.com",
+  "password": "123456578",
+  "degree": "MBBS",
+  "degree": "MBBS",
+  "degree": "MBBS",
+  "degree": "MBBS",
+  "degree": "MBBS",
+}
