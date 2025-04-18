@@ -14,16 +14,16 @@ This repository consists of three main folders:
 ## 🌐 Frontend Setup (User Interface)
 Runs on: http://localhost:5173
 ### Create the frontend folder
-> `npm create vite@latest`
+> **`npm create vite@latest`**
 
 # Name the folder: frontend
 # Select: React & JavaScript
 
-> `cd frontend`
+> **`cd frontend`**
 
 # Install dependencies
-> `npm install`
-> `npm install axios react-router-dom react-toastify`
+> **`npm install`**
+> **`npm install axios react-router-dom react-toastify`**
 
 # Start the frontend server
-> `npm run dev`
+> **`npm run dev`**
