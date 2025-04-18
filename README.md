@@ -13,17 +13,17 @@ This repository consists of three main folders:
 > ⚠️ `node_modules` folders are excluded from version control to reduce repository size. You must install the required dependencies manually as shown below.
 ## 🌐 Frontend Setup (User Interface)
 Runs on: http://localhost:5173
-### Create the frontend folder
+### *Create the frontend folder*
 > **`npm create vite@latest`**
 
-# Name the folder: frontend
-# Select: React & JavaScript
+### *Name the folder: frontend*
+### *Select: React & JavaScript*
 
 > **`cd frontend`**
 
-# Install dependencies
+### *Install dependencies*
 > **`npm install`**
 > **`npm install axios react-router-dom react-toastify`**
 
-# Start the frontend server
+### *Start the frontend server*
 > **`npm run dev`**
